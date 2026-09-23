@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Abhishek-Mallick/warden-dist/main/warden-banner.png" alt="Warden" width="820">
+
 # Warden — releases
 
 Release binaries for [Warden](https://github.com/Abhishek-Mallick/Warden), a governed
