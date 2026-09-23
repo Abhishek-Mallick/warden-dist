@@ -44,6 +44,16 @@ warden serve --config warden.yaml
 Every release carries `checksums.txt`. Homebrew checks the checksum for your platform
 automatically and refuses an archive that does not match.
 
+## Licence
+
+Warden is **proprietary software**, distributed as a compiled binary. You may install
+and run it for your own internal purposes, including in production; you may not
+redistribute it, offer it as a service, or reverse engineer it. The full terms are in
+[LICENSE.md](LICENSE.md), and ship inside every release archive.
+
+Warden links open-source libraries whose licences require their notices to travel with
+it; those are in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
 ## Issues
 
 Report problems on the [issue tracker](https://github.com/Abhishek-Mallick/warden-dist/issues).
