@@ -5,10 +5,6 @@
 Warden is proprietary software. It is distributed as a compiled program; its source
 code is not published and is not part of this distribution.
 
-> **This is a starting point, not legal advice.** It was drafted to replace the worse
-> position of distributing software with no stated terms at all. Have a lawyer review it
-> before you rely on it commercially, and settle the bracketed items below.
-
 ## 1. What you may do
 
 Subject to these terms, you are granted a non-exclusive, non-transferable, revocable
@@ -59,9 +55,9 @@ indirect, incidental, special, consequential, or exemplary damages, or for any l
 data, profits, revenue, or business, arising out of or relating to Warden, on any theory
 of liability, even if advised of the possibility of such damages.
 
-[**Bracketed for review:** total aggregate liability capped at the amounts paid for
-Warden in the twelve months preceding the claim, or a nominal sum where Warden was
-supplied at no charge.]
+In all cases, total aggregate liability arising out of or relating to Warden is limited
+to the total amount you paid for Warden in the twelve months preceding the claim. Where
+Warden was supplied to you at no charge, that amount is zero.
 
 ## 7. Term and termination
 
@@ -71,11 +67,10 @@ possession. Sections 3 to 6 survive termination.
 
 ## 8. Governing law
 
-This licence is governed by the laws of [**jurisdiction to be set — e.g. India**], and
-the courts of [**venue to be set — e.g. Bengaluru**] have exclusive jurisdiction over
-any dispute arising from it.
+This licence is governed by the laws of India. The courts of Bengaluru have exclusive
+jurisdiction over any dispute arising out of or relating to it.
 
 ## 9. Contact
 
-Questions about licensing, including redistribution or evaluation terms not covered
-here: [**contact address to be set**].
+Questions about licensing, including redistribution, evaluation, or terms not covered
+here: mallickabhishek97@gmail.com.
